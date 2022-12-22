@@ -1,0 +1,5 @@
+"""Write a Python program to find average of three numbers entered by the user ."""
+a=float(input("please enter your first no."))
+b=float(input("please enter your second no."))
+c=float(input("please enter your third no."))
+d=print("avg of these no. is",(a+b+c)/3)
